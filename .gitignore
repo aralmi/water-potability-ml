@@ -9,5 +9,6 @@ data
 .python-version
 pyproject.toml
 catboost_info
+.DS_Store
 # Virtual environments
 .venv
