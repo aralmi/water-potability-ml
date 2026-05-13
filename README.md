@@ -188,7 +188,3 @@ pip install -r requirements.txt
 ```
 EDA → Baseline → Feature Engineering → SMOTE → Tuning → SHAP
 ```
-
-Главный инсайт:
-
-В tabular задачах качество чаще растёт за счёт работы с данными, а не смены модели.
